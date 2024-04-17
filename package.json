@@ -1,6 +1,6 @@
 {
   "name": "brnnnman-u",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tea",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/brownnorman823/brnnnman-u/issues"
   },
-  "homepage": "https://github.com/brownnorman823/brnnnman-u#readme"
+  "homepage": "https://github.com/brownnorman823/brnnnman-u#readme",
+  "dependencies": {
+    "io": "^1.5.0"
+  }
 }
